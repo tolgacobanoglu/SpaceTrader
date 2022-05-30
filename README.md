@@ -1,4 +1,4 @@
-# SpaceTrader
+# Space Trader Game
 It is a console game that includes different planets and is played by buying and selling commodities on these planets.
 
 
